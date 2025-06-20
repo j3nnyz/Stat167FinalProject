@@ -29,3 +29,7 @@ For this project, we will be focusing our analysis on the flights, airports, and
 Flights: all flights that departed from NYC in 2013. Size: 336,776 x 19
 
 Weather: hourly meteorological data for each airport. Size: 26,115 x 15
+
+# Comments
+
+Work was divided amongst group members
